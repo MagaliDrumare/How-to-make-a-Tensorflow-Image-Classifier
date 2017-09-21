@@ -5,17 +5,15 @@
 * How convolutional network work? : https://www.youtube.com/watch?v=FmpDIaiMIeA (by Brandon Rohrer)
 * A beginner guide to understand CNN : https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 * Convolutional Neural Networks: https://youtu.be/M7smwHwdOIA (by Yann lecun) 
-* Stanford lecture on Convolutional Neural Networks:  https://youtu.be/LxfUGhug-iQ (by Andrej Karpathy)
+* Stanford lecture on Convolutional Neural Networks:   (by Andrej Karpathy)
 
 ### How-to-make-a-Tensorflow-Image-Classifier? 
-for recognizing handwritten digits from the MNIST data-set. 
+for recognizing handwritten digits from the MNIST data-set.
+![alt tag](http://parse.ele.tue.nl/cluster/2/CNNArchitecture.jpg)
 * TensorFlow Tutorial #02 Convolutional Neural Network: https://youtu.be/HMcx-zY8JSg
 * How to Make a Tensorflow Image Classifier (LIVE): https://youtu.be/APmF6qE3Vjc
 * Code for these videos: 
 https://github.com/llSourcell/How_to_make_a_tensorflow_image_classifier_LIVE/blob/master/demonotes.ipynb
-
-![alt tag](http://parse.ele.tue.nl/cluster/2/CNNArchitecture.jpg)
-
 
 ### Le layer CNN est composé de trois blocs séparés : convolution, reLu, max-pooling 
 ```
