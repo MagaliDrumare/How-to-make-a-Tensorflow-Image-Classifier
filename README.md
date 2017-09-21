@@ -8,13 +8,14 @@
 * Stanford lecture on Convolutional Neural Networks:  https://youtu.be/LxfUGhug-iQ (by Andrej Karpathy)
 
 ### How-to-make-a-Tensorflow-Image-Classifier? 
+for recognizing handwritten digits from the MNIST data-set. 
+* TensorFlow Tutorial #02 Convolutional Neural Network: https://youtu.be/HMcx-zY8JSg
 * How to Make a Tensorflow Image Classifier (LIVE): https://youtu.be/APmF6qE3Vjc
-* Code for this vidéo: 
+* Code for these videos: 
 https://github.com/llSourcell/How_to_make_a_tensorflow_image_classifier_LIVE/blob/master/demonotes.ipynb
-* Code simplifié : ImageClassifierTF.py dans l'arborescense. 
 
+![alt tag](http://parse.ele.tue.nl/cluster/2/CNNArchitecture.jpg)
 
-![alt tag](https://www.dropbox.com/s/tdyw5j9xv3c1pmp/Capture%20d%E2%80%99%C3%A9cran%202017-09-21%20%C3%A0%2016.27.51.png?dl=0)
 
 ### Le layer CNN est composé de trois blocs séparés : convolution, reLu, max-pooling 
 ```
