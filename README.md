@@ -14,7 +14,7 @@ https://github.com/llSourcell/How_to_make_a_tensorflow_image_classifier_LIVE/blo
 * Code simplifié : ImageClassifierTF.py dans l'arborescense. 
 
 
-
+![alt tag](https://www.dropbox.com/s/tdyw5j9xv3c1pmp/Capture%20d%E2%80%99%C3%A9cran%202017-09-21%20%C3%A0%2016.27.51.png?dl=0)
 
 ### Le layer CNN est composé de trois blocs séparés : convolution, reLu, max-pooling 
 ```
