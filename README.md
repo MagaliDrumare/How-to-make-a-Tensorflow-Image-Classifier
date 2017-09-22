@@ -15,6 +15,7 @@ for recognizing handwritten digits from the MNIST data-set.
 * Code for these videos: 
 https://github.com/llSourcell/How_to_make_a_tensorflow_image_classifier_LIVE/blob/master/demonotes.ipynb
 
+
 ### Le layer CNN est composé de trois blocs séparés : convolution, reLu, max-pooling 
 ```
 def new_conv_layer(input,              # The previous layer.
@@ -33,7 +34,7 @@ def new_conv_layer(input,              # The previous layer.
 # Create new biases, one for each filter.
     biases = new_biases(length=num_filters)
 
-# Block 1: Create the TensorFlow operation for convolution.
+# Block 1: Create the TensorFlow operation for convolution. 
     layer = tf.nn.conv2d(input=input,
                          filter=weights,
                          strides=[1, 1, 1, 1],
