@@ -15,7 +15,6 @@ for recognizing handwritten digits from the MNIST data-set.
 * Code for these videos: 
 https://github.com/llSourcell/How_to_make_a_tensorflow_image_classifier_LIVE/blob/master/demonotes.ipynb
 
-
 ### Le layer CNN est composé de trois blocs séparés : convolution, reLu, max-pooling 
 ```
 def new_conv_layer(input,              # The previous layer.
