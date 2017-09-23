@@ -1,4 +1,7 @@
 
+![alt tag](http://parse.ele.tue.nl/cluster/2/CNNArchitecture.jpg)
+To recognize handwritten digits from the MNIST data-set.
+
 # A voir et à savoir : 
 
 ### Les réseaux neuronaux convolutifs (CNN) ont de larges applications dans la reconnaissance d'images et vidéos, les systèmes de recommandations et le traitement du langage naturel.
@@ -8,8 +11,8 @@
 * Stanford lecture on Convolutional Neural Networks:   (by Andrej Karpathy)
 
 ### How-to-make-a-Tensorflow-Image-Classifier? 
-for recognizing handwritten digits from the MNIST data-set.
-![alt tag](http://parse.ele.tue.nl/cluster/2/CNNArchitecture.jpg)
+
+
 * TensorFlow Tutorial #02 Convolutional Neural Network: https://youtu.be/HMcx-zY8JSg
 * How to Make a Tensorflow Image Classifier (LIVE): https://youtu.be/APmF6qE3Vjc
 * Code for these videos: 
