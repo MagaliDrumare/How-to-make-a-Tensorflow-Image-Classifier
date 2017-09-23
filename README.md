@@ -1,6 +1,6 @@
 
 ![alt tag](http://parse.ele.tue.nl/cluster/2/CNNArchitecture.jpg)
-To recognize handwritten digits from the MNIST data-set.
+* To recognize handwritten digits from the MNIST data-set.
 
 # A voir et à savoir : 
 
