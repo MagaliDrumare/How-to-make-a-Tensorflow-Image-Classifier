@@ -1,6 +1,6 @@
 
 ![alt tag](http://parse.ele.tue.nl/cluster/2/CNNArchitecture.jpg)
-* Use if a CNN to recognize handwritten digits from the MNIST data-set.
+* Use a CNN to recognize handwritten digits from the MNIST data-set.
 
 # A voir et à savoir : 
 
