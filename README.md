@@ -1,6 +1,6 @@
 
 ![alt tag](http://parse.ele.tue.nl/cluster/2/CNNArchitecture.jpg)
-* To recognize handwritten digits from the MNIST data-set.
+* Use if a CNN to recognize handwritten digits from the MNIST data-set.
 
 # A voir et à savoir : 
 
@@ -8,7 +8,7 @@
 * How convolutional network work? : https://www.youtube.com/watch?v=FmpDIaiMIeA (by Brandon Rohrer)
 * A beginner guide to understand CNN : https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 * Convolutional Neural Networks: https://youtu.be/M7smwHwdOIA (by Yann lecun) 
-* Stanford lecture on Convolutional Neural Networks:   (by Andrej Karpathy)
+* Stanford lecture on Convolutional Neural Networks: https://youtu.be/AQirPKrAyDg (by Andrej Karpathy)
 
 ### How-to-make-a-Tensorflow-Image-Classifier? 
 
