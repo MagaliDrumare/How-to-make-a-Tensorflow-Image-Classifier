@@ -10,7 +10,7 @@
 * Convolutional Neural Networks: https://youtu.be/M7smwHwdOIA (by Yann lecun) 
 * Stanford lecture on Convolutional Neural Networks: https://youtu.be/AQirPKrAyDg (by Andrej Karpathy)
 
-### Réaliser un classifieur d'images avec tensotflow 
+### Réaliser un classifieur d'images avec tensotflow avec un CNN
 
 
 * TensorFlow Tutorial #02 Convolutional Neural Network: https://youtu.be/HMcx-zY8JSg
