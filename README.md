@@ -19,7 +19,7 @@
 https://github.com/llSourcell/How_to_make_a_tensorflow_image_classifier_LIVE/blob/master/demonotes.ipynb
 
 ### Le layer CNN est composé de trois blocs séparés : convolution, reLu, max-pooling 
-```
+```python
 def new_conv_layer(input,              # The previous layer.
                    num_input_channels, # Num. channels in prev. layer.
                    filter_size,        # Width and height of each filter.
@@ -55,7 +55,7 @@ def new_conv_layer(input,              # The previous layer.
     return layer, weights
 ```
 ### Ces trois blocs peuvent être répétés dans le cadre de la construction du modèle (2 fois)
-```
+```python
 layer_conv1, weights_conv1 = \
     new_conv_layer(input=x_image,
                    num_input_channels=num_channels,
